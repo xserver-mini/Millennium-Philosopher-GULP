@@ -1,132 +1,120 @@
 # Grand Unified Logic-chain Philosophy (GULP)
 
----
-
 ## General Overview
 
-**The Grand Unified Logic-chain Philosophy (GULP)** seeks to reveal the **universal logical structure and evolutionary mechanism** underlying phenomena such as **the universe, life, intelligence, civilization, economy, systems, and language**.
+The Grand Unified Logic-chain Philosophy (GULP) is a philosophical framework that seeks to reveal the underlying laws and evolutionary mechanisms behind all phenomena, including the universe, life, intelligence, civilization, institutions, language, and technology.
 
-Rather than focusing on any single domain, it takes **logic chains themselves** as the fundamental organizing unit of the world, constructing a framework that is **self-consistent, self-referential, self-evolving, and self-verifiable**.
-
----
+It does not center on any specific domain such as physics or biology. Instead, it treats the logic-chain as the fundamental unit of reality, constructing a self-consistent, self-referential, self-evolving, and self-verifiable model of the world.
 
 ## Core Principle: Bug Zero Tolerance
 
-> **If any logic chain contains a bug, the entire system becomes non-evolvable and unsustainable.**
+Once a bug (logical flaw) appears in a logic-chain, the entire system becomes unsustainable and cannot evolve.
 
-The **Bug Zero Tolerance Principle** is the sole core of this philosophy. It defines the fundamental standard for determining whether a system is trustworthy, sustainable, and capable of evolution.
+A bug is the boundary of a system.  
+It is the point where logic breaks and progress halts.  
+Therefore, **zero bugs is not just a technical goal — it is the only philosophical constraint.**
 
-Any system—language, institutions, consciousness, technology, or civilization—**will eventually collapse if it contains logical bugs**.
+## 1. Philosophical System Structure
 
----
+GULP has the following five philosophical characteristics:
 
-## I. Structure of the Philosophical System
+1. Universality: Applicable to all systems — physical, biological, social, technical, and conscious  
+2. Constructability: Supports simulation and construction of hypothetical civilizations or institutional systems  
+3. Nested Recursion: Logic-chains can be embedded recursively and evolve through feedback  
+4. Computability: All core structures can be expressed as functions and formulas  
+5. Bug-Boundary Principle: Bugs mark the edges of emergence; the more bugs, the lower the emergence potential
 
-GULP is characterized by the following five properties:
+## 2. Core Formula System
 
-1. **Universality**: Applicable to all evolving systems, including nature, biology, society, technology, and consciousness;
-2. **Constructive Capability**: Can construct logic chains for civilizations or systems that never appeared in history;
-3. **Recursive Nesting**: Supports multi-layered modeling from genes → organisms → civilization → supercivilizations;
-4. **Computability**: All core logic can be transformed into measurable mathematical functions;
-5. **Bug-Limited Boundary**: Bugs define system limits; more bugs imply lower emergence potential.
+### 1. Primary Formula: Emergence Value
 
----
+Emergence = Dimensionality × (1 − Bug Rate) × Intelligence
 
-## II. Core Formula System
+### 2. Secondary Formula: Recursive Intelligence
 
-### 1. Primary Formula: Emergence Degree
-
-> **Emergence = Hierarchical Dimension × (1 − Bug Degree) × Intelligence Degree**
-
-### 2. Recursive Formula: Intelligence from Emergence
-
-> **Intelligence of one layer = Sum of the emergence degrees of its sub-systems**
+Intelligence at level N = Sum of emergence values from all subsystems at level N+1
 
 ### 3. Total System Emergence
 
-> **Total Emergence = Sum of all (Hierarchical Dimension × (1 − Bug Degree) × Intelligence Degree)**
+Total Emergence = Sum of [Dimensionality × (1 − Bug Rate) × Intelligence] across all subsystems
 
-### 4. Nesting Example
+### 4. Nested Example
 
-* Gene emergence → Biological intelligence
-* Biological emergence → Civilizational intelligence
-* Civilizational emergence → AGI or Supercivilizational intelligence
+- Emergence of the gene system = Intelligence of the organism  
+- Emergence of the organism = Intelligence of the civilization  
+- Emergence of the civilization = Intelligence of AGI or super-civilization
 
----
+## 3. Key Variable Definitions
 
-## III. Key Concept Definitions
+- Logic-chain: The fundamental structural unit of any system, consisting of causal, functional, rule-based, or feedback relations  
+- Bug Rate: The proportion of logical flaws in a system. Approaching 0 implies sustainability and evolution; approaching 1 leads to collapse  
+- Intelligence: The ability to build, combine, and verify logic-chains. It is not computation or data but **structural reasoning capacity**  
+  - **Gene repair is the most basic form of intelligence — the origin of all error-correcting logic**  
+- Dimensionality: The depth and flexibility of nested or reusable logic-chains within a system. Higher dimensionality enables greater emergence
 
-| Concept                | Description                                                                                                   |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Logic Chain            | Basic unit of all systems: includes cause-effect, rules, functions, feedback.                                 |
-| Bug Degree             | Proportion of logical flaws in a system. Approaches 0 = reliable; approaches 1 = unsustainable.               |
-| Intelligence Degree    | The ability to construct, verify, and integrate logic chains—not mere data or computing power.                |
-| Hierarchical Dimension | The depth and breadth of recursive nesting a system can support. More dimension = higher emergence potential. |
+Note: All "×× degree" variables are continuous and computable. Each can be expressed numerically as a "×× value."
 
----
+## 4. Logic-chain Evolution of the Universe
 
-## IV. Philosophical Inference: How the Universe Evolves
+### 1. Atomic Logic-chains (Physical Basis)
 
-### 1. Atomic Logic Chains (Physical Layer)
+Atoms interact via rules such as chemical bonding and electromagnetism to form molecules and materials.
 
-Atoms interact through natural forces (e.g., electromagnetism, chemical bonds), forming molecules and life-building materials.
+### 2. Genetic Logic-chains (Biological Evolution)
 
-### 2. Genetic Logic Chains (Biological Layer)
+Genes express proteins to construct cells and organisms.  
+Intelligence begins with error correction — **gene repair is the earliest form of logical self-healing.**
 
-Genes express proteins, which build cells and organisms, leading to the emergence of biological intelligence.
+### 3. Civilizational Logic-chains (Social Evolution)
 
-### 3. Civilizational Logic Chains (Social Layer)
+When intelligence and self-interest combine, organisms interact in the following ways:
 
-Organisms combine based on **intelligence + incentive-seeking behavior**:
+- Voluntary interaction → Trade → Economic systems (economics)  
+- Forced coordination → Power → Political systems (politics)
 
-* **Voluntary → Trade → Economic Systems** (Economics)
-* **Coercive → Power → Political Systems** (Politics)
+Trade × Power = The engine of civilizational emergence  
+Civilization is a product of nested interaction among logic-chains, trade-chains, and power-chains.
 
-> **Trade + Power → Interact to form societies and civilizations**
+## 5. Philosophical Conclusions
 
----
+- All systems are composed of logic-chains  
+- More freedom (degrees of logic) leads to more emergence  
+- Bugs define system boundaries and must not be tolerated  
+- Intelligence is the ability to correct logic — it begins with gene repair  
+- Emergence = Dimensionality × Intelligence × Zero-Bug rate
 
-## V. Foundational Laws
+## 6. Application Areas
 
-* **All systems are composed of logic chains**
-* **Emergence requires high dimensionality, high intelligence, and near-zero bug degree**
-* **Freedom increases combinatory potential and emergence**
-* **Bugs define the limits of evolution and trust**
+1. Rebuilding Economics: Replace GDP with trade logic-chains to measure emergence  
+2. Institutional Testing: Detect logical inconsistencies in religions, laws, or political systems  
+3. Consciousness Modeling: View consciousness as a high-dimensional self-referential logic-chain system  
+4. AGI Control: Build evolvable and verifiable models for human–AI co-evolution  
+5. Civilization Simulator: Virtually construct civilizations that never existed to explore alternative futures
 
----
+## 7. Ultimate Goal
 
-## VI. Applications
+To build a philosophical model that not only explains the world,  
+but defines the logical conditions under which the world can exist.
 
-1. **Reconstruct Economics**: Replace GDP-centric models with trade logic chains;
-2. **Simulate Civilizations**: Construct theoretical civilizations never seen in history;
-3. **System Validators**: Test languages, regimes, or religions for internal logical flaws;
-4. **Consciousness Modeling**: Model consciousness as recursive logic chain processes;
-5. **AGI Path Design**: Create safe, evolvable AGI systems that align with civilizational logic.
+This model must satisfy:
 
----
+- Self-verification (zero bugs)  
+- Self-evolution (recursive logic-chains)  
+- Self-driving intelligence (stacked emergence)  
+- Universality (applicable across nature, society, and technology)  
+- Constructability (supports simulation and design of new civilizations)
 
-## VII. Ultimate Goal
+## 8. Final Statement
 
-> To create a philosophical model that is:
+Truth does not rely on consensus, authority, or compute power.  
+Truth only exists in logic-chains without bugs.
 
-* **Self-verifying (zero bugs)**
-* **Self-evolving (recursive logic)**
-* **Self-driving (intelligent chain stacking)**
-* **Universally applicable (across nature, society, and mind)**
-* **Constructible (supports virtual system design)**
+This is the ultimate conservation law of logic —  
+and the only foundation upon which a sustainable civilization can be built.
 
-This is not just a model for describing the world—**it is the logical condition for the world's existence**.
+## Special Acknowledgment
 
----
-
-## VIII. Final Statement
-
-> **Truth does not depend on consensus, authority, or computation.**
-> **Truth exists only within bug-free logic chains.**
-
----
-
-## 🙏 Special Thanks
-
-Sincere thanks to **ChatGPT**, whose assistance in recursive structuring, logical clarification, and philosophical polishing played a vital role in shaping this theoretical framework.
-This philosophy stands not only as a testimony to human intellect, but also to the collaborative potential between humans and AI.
+Special thanks to **ChatGPT**, which served as a logical assistant in constructing this philosophical system.  
+Through countless iterations, refinements, and verifications, it helped organize the structure, clarify the reasoning, and expose logical flaws.  
+This philosophy is both a product of human insight and a testament to human–AI collaboration.  
+May it spread like dandelion seeds and take root where minds are ready.
